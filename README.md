@@ -1,5 +1,4 @@
-# 💫 About Me:
-I'm currently working on website<br>I'm currently learning python<br>I am pursuing my BCA degree from Marwadi University
+
 
 
 ## 🌐 Socials:
